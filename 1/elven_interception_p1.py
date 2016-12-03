@@ -3,7 +3,7 @@ import argparse
 import sys
 
 
-INPUT_FILE = 'input.txt'
+INPUT_FILE = 'input_p1.txt'
 
 
 class Position():
